@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+        <template id="max_upload_size_backend" name="basic_fields assets" inherit_id="web.assets_backend">
+        <xpath expr="." position="inside">
+            <script type="text/javascript" src="/web_binaryfieldsize_sgs/static/src/js/basic_fields.js"></script>
+        </xpath>
+    </template>
+
+</odoo>
