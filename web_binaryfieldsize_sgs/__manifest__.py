@@ -1,9 +1,10 @@
 # See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Web increase binary field size v12.0',
+    'name': 'Web increase binary field size',
     'version': '12.0',
     'author': 'TIT SOLUTIONS',
+    'summary' : "Web increase binary field size",
     'depends': ['web'],
     "license": "AGPL-3",
     'category': 'Tools',
